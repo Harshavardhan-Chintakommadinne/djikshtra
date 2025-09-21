@@ -3,14 +3,14 @@
 ##  Overview
 This project implements **Dijkstra’s Algorithm** in C++ to find the shortest path between two nodes in a weighted graph.  
 The program asks the user for a **starting node** and an **ending node** and outputs:
-- ✅The cost of the shortest path  
+- The cost of the shortest path  
 -  The path itself  
 
 The graph is **hardcoded** for simplicity, but the algorithm works for any graph with **positive edge weights**.
 
 ---
 
-## 🛠 Features
+##  Features
 - Graph represented using an **adjacency list**  
 - Efficient **priority queue (min-heap)** for performance  
 - User input for **start** and **end** nodes  
